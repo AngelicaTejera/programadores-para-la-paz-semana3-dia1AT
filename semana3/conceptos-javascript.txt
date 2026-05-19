@@ -1,47 +1,48 @@
 Conceptos básicos de JavaScript – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Angelica Tejera Utria
+Fecha: 18/05/26
+Nombre de la rama: angelica_tejera_utria
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta:
+Respuesta: Es el lenguaje de programación que nació para darle vida, interactividad y movimiento a las páginas web.
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta: Node.js permite ejecutar código de JavaScript directamente en el pc (en la terminal o consola), sin necesidad de abrir un navegador web
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta: Este comando le ordena a Node.js que abra, lea y ejecute todas las instrucciones escritas dentro del archivo llamado algoritmo-verificacion.js.
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta: es como una caja con una etiqueta donde guardamos un dato (un número, un texto, un valor verdadero/falso) para poder usarlo, cambiarlo o consultarlo más adelante en el código.
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta:Se usa para declarar una variable cuyo valor no va a cambiar a lo largo del programa.
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta: Se usa para declarar una variable cuyo valor sí puede cambiar o modificarse más adelante.
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta: Significa "si..." (condicional). Es la estructura que le permite al programa evaluar si una condición es verdadera para, en caso de que lo sea, ejecutar un bloque de código específico.
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta: ignifica "si no..." o "de lo contrario". Es la alternativa que se ejecuta automáticamente cuando la condición del if no se cumplió (es decir, resultó falsa).
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
-Respuesta:
+Respuesta: orque ambas funcionan bajo la lógica de evaluar condiciones antes de actuar. En programación, un if evalúa si un dato es correcto antes de avanzar; en internet, una persona responsable debe evaluar si una fuente es confiable
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
-Respuesta:
+Respuesta: Se relaciona directamente porque un algoritmo en programación sigue una serie de pasos lógicos para comprobar si un dato es válido o no.
+De la misma manera, la verificación de información (o fact-checking) es un proceso mental y metodológico donde aplicamos "filtros" o condiciones para separar las noticias reales de las falsas
